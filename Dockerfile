@@ -1,4 +1,4 @@
-FROM docker.io/mcelep/che-java8-maven
+FROM registry.access.redhat.com/codeready-workspaces/stacks-java-rhel8
 
 MAINTAINER tech
 
