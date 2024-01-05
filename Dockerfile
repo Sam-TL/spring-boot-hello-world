@@ -1,6 +1,6 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM docker.io/mcelep/che-java8-maven
 
-MAINTAINER tech-tejendra
+MAINTAINER tech
 
 USER root
 
